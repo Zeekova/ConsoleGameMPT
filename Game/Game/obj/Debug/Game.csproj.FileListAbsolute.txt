@@ -1,0 +1,9 @@
+C:\Users\Lenovo\OneDrive\Рабочий стол\Папка\Занятия\2 курс\ОАиП\Практические\Game\Game\bin\Debug\Game.exe.config
+C:\Users\Lenovo\OneDrive\Рабочий стол\Папка\Занятия\2 курс\ОАиП\Практические\Game\Game\bin\Debug\Game.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\Папка\Занятия\2 курс\ОАиП\Практические\Game\Game\bin\Debug\Game.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Папка\Занятия\2 курс\ОАиП\Практические\Game\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Папка\Занятия\2 курс\ОАиП\Практические\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Папка\Занятия\2 курс\ОАиП\Практические\Game\Game\obj\Debug\Game.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\Папка\Занятия\2 курс\ОАиП\Практические\Game\Game\obj\Debug\Game.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Папка\Занятия\2 курс\ОАиП\Практические\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Папка\Занятия\2 курс\ОАиП\Практические\Game\Game\obj\Debug\Game.Properties.Resources.resources
